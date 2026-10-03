@@ -1,6 +1,7 @@
 # Dream Journal App
 
 A full-stack web application that allows users to record their dreams and receive AI-powered interpretations using Claude.
+[View Live Website](https://devops-dream-catcher.onrender.com)
 
 ## Features
 
